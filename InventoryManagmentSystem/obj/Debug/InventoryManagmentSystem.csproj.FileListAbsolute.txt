@@ -1,0 +1,10 @@
+G:\utafi\Documents\visual studio 2012\Projects\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.exe.config
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.exe.config
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.exe
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\InventoryManagmentSystem.pdb
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.Items.resources
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.exe
+C:\Users\USER\Desktop\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\InventoryManagmentSystem.pdb
